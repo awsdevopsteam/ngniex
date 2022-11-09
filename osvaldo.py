@@ -1,1 +1,1 @@
-print ("merhaba televole")
+print ("merhaba televoleci")
